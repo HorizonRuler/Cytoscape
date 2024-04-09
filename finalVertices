@@ -1,0 +1,772 @@
+name,symbol,descr,baits,description
+60,ACTB,actin beta,0,actin beta
+10363,HMG20A,high mobility group 20A,0,high mobility group 20A
+79036,KXD1,KxDL motif containing 1,0,KxDL motif containing 1
+10318,TNIP1,TNFAIP3 interacting protein 1,0,TNFAIP3 interacting protein 1
+23650,TRIM29,tripartite motif containing 29,0,tripartite motif containing 29
+1857,DVL3,dishevelled segment polarity protein 3,0,dishevelled segment polarity protein 3
+5566,PRKACA,protein kinase cAMP-activated catalytic subunit alpha,0,protein kinase cAMP-activated catalytic subunit alpha
+10403,NDC80,NDC80 kinetochore complex component,0,NDC80 kinetochore complex component
+11243,PMF1,polyamine modulated factor 1,0,polyamine modulated factor 1
+3312,HSPA8,heat shock protein family A (Hsp70) member 8,0,heat shock protein family A (Hsp70) member 8
+2885,GRB2,growth factor receptor bound protein 2,0,growth factor receptor bound protein 2
+3309,HSPA5,heat shock protein family A (Hsp70) member 5,0,heat shock protein family A (Hsp70) member 5
+10971,YWHAQ,tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein theta,0,tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein theta
+7532,YWHAG,tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma,0,tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma
+5708,PSMD2,"proteasome 26S subunit ubiquitin receptor, non-ATPase 2",0,"proteasome 26S subunit ubiquitin receptor, non-ATPase 2"
+8237,USP11,ubiquitin specific peptidase 11,0,ubiquitin specific peptidase 11
+5718,PSMD12,"proteasome 26S subunit, non-ATPase 12",0,"proteasome 26S subunit, non-ATPase 12"
+8454,CUL1,cullin 1,0,cullin 1
+7529,YWHAB,tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein beta,0,tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein beta
+5707,PSMD1,"proteasome 26S subunit, non-ATPase 1",0,"proteasome 26S subunit, non-ATPase 1"
+4905,NSF,"N-ethylmaleimide sensitive factor, vesicle fusing ATPase",0,"N-ethylmaleimide sensitive factor, vesicle fusing ATPase"
+5298,PI4KB,phosphatidylinositol 4-kinase beta,0,phosphatidylinositol 4-kinase beta
+5709,PSMD3,"proteasome 26S subunit, non-ATPase 3",0,"proteasome 26S subunit, non-ATPase 3"
+2932,GSK3B,glycogen synthase kinase 3 beta,0,glycogen synthase kinase 3 beta
+5717,PSMD11,"proteasome 26S subunit, non-ATPase 11",0,"proteasome 26S subunit, non-ATPase 11"
+5705,PSMC5,"proteasome 26S subunit, ATPase 5",0,"proteasome 26S subunit, ATPase 5"
+1499,CTNNB1,catenin beta 1,0,catenin beta 1
+5700,PSMC1,"proteasome 26S subunit, ATPase 1",0,"proteasome 26S subunit, ATPase 1"
+5716,PSMD10,"proteasome 26S subunit, non-ATPase 10",0,"proteasome 26S subunit, non-ATPase 10"
+7384,UQCRC1,ubiquinol-cytochrome c reductase core protein 1,0,ubiquinol-cytochrome c reductase core protein 1
+5704,PSMC4,"proteasome 26S subunit, ATPase 4",0,"proteasome 26S subunit, ATPase 4"
+5702,PSMC3,"proteasome 26S subunit, ATPase 3",0,"proteasome 26S subunit, ATPase 3"
+5719,PSMD13,"proteasome 26S subunit, non-ATPase 13",0,"proteasome 26S subunit, non-ATPase 13"
+8533,COPS3,COP9 signalosome subunit 3,0,COP9 signalosome subunit 3
+11345,GABARAPL2,GABA type A receptor associated protein like 2,0,GABA type A receptor associated protein like 2
+6185,RPN2,ribophorin II,0,ribophorin II
+5701,PSMC2,"proteasome 26S subunit, ATPase 2",0,"proteasome 26S subunit, ATPase 2"
+55210,ATAD3A,ATPase family AAA domain containing 3A,0,ATPase family AAA domain containing 3A
+11151,CORO1A,coronin 1A,0,coronin 1A
+7534,YWHAZ,tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta,0,tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta
+8664,EIF3D,eukaryotic translation initiation factor 3 subunit D,0,eukaryotic translation initiation factor 3 subunit D
+3646,EIF3E,eukaryotic translation initiation factor 3 subunit E,0,eukaryotic translation initiation factor 3 subunit E
+5573,PRKAR1A,protein kinase cAMP-dependent type I regulatory subunit alpha,0,protein kinase cAMP-dependent type I regulatory subunit alpha
+1781,DYNC1I2,dynein cytoplasmic 1 intermediate chain 2,0,dynein cytoplasmic 1 intermediate chain 2
+6500,SKP1,S-phase kinase associated protein 1,0,S-phase kinase associated protein 1
+387,RHOA,ras homolog family member A,0,ras homolog family member A
+10213,PSMD14,"proteasome 26S subunit, non-ATPase 14",0,"proteasome 26S subunit, non-ATPase 14"
+5713,PSMD7,"proteasome 26S subunit, non-ATPase 7",0,"proteasome 26S subunit, non-ATPase 7"
+8766,RAB11A,"RAB11A, member RAS oncogene family",0,"RAB11A, member RAS oncogene family"
+23122,CLASP2,cytoplasmic linker associated protein 2,1,cytoplasmic linker associated protein 2
+5706,PSMC6,"proteasome 26S subunit, ATPase 6",0,"proteasome 26S subunit, ATPase 6"
+2011,MARK2,microtubule affinity regulating kinase 2,0,microtubule affinity regulating kinase 2
+26517,TIMM13,translocase of inner mitochondrial membrane 13,0,translocase of inner mitochondrial membrane 13
+1778,DYNC1H1,dynein cytoplasmic 1 heavy chain 1,0,dynein cytoplasmic 1 heavy chain 1
+682,BSG,basigin (Ok blood group),0,basigin (Ok blood group)
+4218,RAB8A,"RAB8A, member RAS oncogene family",0,"RAB8A, member RAS oncogene family"
+1654,DDX3X,DEAD-box helicase 3 X-linked,0,DEAD-box helicase 3 X-linked
+5714,PSMD8,"proteasome 26S subunit, non-ATPase 8",0,"proteasome 26S subunit, non-ATPase 8"
+84630,TTBK1,tau tubulin kinase 1,0,tau tubulin kinase 1
+9338,TCEAL1,transcription elongation factor A like 1,0,transcription elongation factor A like 1
+1639,DCTN1,dynactin subunit 1,0,dynactin subunit 1
+9861,PSMD6,"proteasome 26S subunit, non-ATPase 6",0,"proteasome 26S subunit, non-ATPase 6"
+11338,U2AF2,U2 small nuclear RNA auxiliary factor 2,0,U2 small nuclear RNA auxiliary factor 2
+998,CDC42,cell division cycle 42,0,cell division cycle 42
+10492,SYNCRIP,synaptotagmin binding cytoplasmic RNA interacting protein,0,synaptotagmin binding cytoplasmic RNA interacting protein
+9131,AIFM1,apoptosis inducing factor mitochondria associated 1,0,apoptosis inducing factor mitochondria associated 1
+5689,PSMB1,proteasome 20S subunit beta 1,0,proteasome 20S subunit beta 1
+5878,RAB5C,"RAB5C, member RAS oncogene family",0,"RAB5C, member RAS oncogene family"
+10945,KDELR1,KDEL endoplasmic reticulum protein retention receptor 1,0,KDEL endoplasmic reticulum protein retention receptor 1
+4176,MCM7,minichromosome maintenance complex component 7,0,minichromosome maintenance complex component 7
+5710,PSMD4,"proteasome 26S subunit ubiquitin receptor, non-ATPase 4",0,"proteasome 26S subunit ubiquitin receptor, non-ATPase 4"
+6184,RPN1,ribophorin I,0,ribophorin I
+8604,SLC25A12,solute carrier family 25 member 12,0,solute carrier family 25 member 12
+7874,USP7,ubiquitin specific peptidase 7,0,ubiquitin specific peptidase 7
+5635,PRPSAP1,phosphoribosyl pyrophosphate synthetase associated protein 1,0,phosphoribosyl pyrophosphate synthetase associated protein 1
+829,CAPZA1,capping actin protein of muscle Z-line subunit alpha 1,0,capping actin protein of muscle Z-line subunit alpha 1
+4140,MARK3,microtubule affinity regulating kinase 3,0,microtubule affinity regulating kinase 3
+5894,RAF1,"Raf-1 proto-oncogene, serine/threonine kinase",0,"Raf-1 proto-oncogene, serine/threonine kinase"
+5691,PSMB3,proteasome 20S subunit beta 3,0,proteasome 20S subunit beta 3
+9882,TBC1D4,TBC1 domain family member 4,0,TBC1 domain family member 4
+5202,PFDN2,prefoldin subunit 2,0,prefoldin subunit 2
+11140,CDC37,"cell division cycle 37, HSP90 cochaperone",0,"cell division cycle 37, HSP90 cochaperone"
+5683,PSMA2,proteasome 20S subunit alpha 2,0,proteasome 20S subunit alpha 2
+5684,PSMA3,proteasome 20S subunit alpha 3,0,proteasome 20S subunit alpha 3
+301,ANXA1,annexin A1,0,annexin A1
+5201,PFDN1,prefoldin subunit 1,0,prefoldin subunit 1
+6318,SERPINB4,serpin family B member 4,0,serpin family B member 4
+9662,CEP135,centrosomal protein 135,0,centrosomal protein 135
+5682,PSMA1,proteasome 20S subunit alpha 1,0,proteasome 20S subunit alpha 1
+1656,DDX6,DEAD-box helicase 6,0,DEAD-box helicase 6
+5693,PSMB5,proteasome 20S subunit beta 5,0,proteasome 20S subunit beta 5
+5688,PSMA7,proteasome 20S subunit alpha 7,0,proteasome 20S subunit alpha 7
+6169,RPL38,ribosomal protein L38,0,ribosomal protein L38
+483,ATP1B3,ATPase Na+/K+ transporting subunit beta 3,0,ATPase Na+/K+ transporting subunit beta 3
+5687,PSMA6,proteasome 20S subunit alpha 6,0,proteasome 20S subunit alpha 6
+10197,PSME3,proteasome activator subunit 3,0,proteasome activator subunit 3
+6627,SNRPA1,small nuclear ribonucleoprotein polypeptide A',0,small nuclear ribonucleoprotein polypeptide A'
+10471,PFDN6,prefoldin subunit 6,0,prefoldin subunit 6
+5868,RAB5A,"RAB5A, member RAS oncogene family",0,"RAB5A, member RAS oncogene family"
+7187,TRAF3,TNF receptor associated factor 3,0,TNF receptor associated factor 3
+3308,HSPA4,heat shock protein family A (Hsp70) member 4,0,heat shock protein family A (Hsp70) member 4
+4282,MIF,macrophage migration inhibitory factor,0,macrophage migration inhibitory factor
+7879,RAB7A,"RAB7A, member RAS oncogene family",0,"RAB7A, member RAS oncogene family"
+324,APC,APC regulator of WNT signaling pathway,0,APC regulator of WNT signaling pathway
+675,BRCA2,BRCA2 DNA repair associated,0,BRCA2 DNA repair associated
+6714,SRC,"SRC proto-oncogene, non-receptor tyrosine kinase",0,"SRC proto-oncogene, non-receptor tyrosine kinase"
+545,ATR,ATR serine/threonine kinase,0,ATR serine/threonine kinase
+1495,CTNNA1,catenin alpha 1,0,catenin alpha 1
+4361,MRE11,"MRE11 homolog, double strand break repair nuclease",0,"MRE11 homolog, double strand break repair nuclease"
+6711,SPTBN1,"spectrin beta, non-erythrocytic 1",0,"spectrin beta, non-erythrocytic 1"
+7283,TUBG1,tubulin gamma 1,0,tubulin gamma 1
+9212,AURKB,aurora kinase B,0,aurora kinase B
+7013,TERF1,telomeric repeat binding factor 1,0,telomeric repeat binding factor 1
+5879,RAC1,Rac family small GTPase 1,0,Rac family small GTPase 1
+29079,MED4,mediator complex subunit 4,0,mediator complex subunit 4
+8218,CLTCL1,clathrin heavy chain like 1,0,clathrin heavy chain like 1
+79042,TSEN34,tRNA splicing endonuclease subunit 34,0,tRNA splicing endonuclease subunit 34
+116461,TSEN15,tRNA splicing endonuclease subunit 15,0,tRNA splicing endonuclease subunit 15
+5499,PPP1CA,protein phosphatase 1 catalytic subunit alpha,0,protein phosphatase 1 catalytic subunit alpha
+351,APP,amyloid beta precursor protein,0,amyloid beta precursor protein
+53407,STX18,syntaxin 18,0,syntaxin 18
+23256,SCFD1,sec1 family domain containing 1,0,sec1 family domain containing 1
+23301,EHBP1,EH domain binding protein 1,0,EH domain binding protein 1
+8850,KAT2B,lysine acetyltransferase 2B,0,lysine acetyltransferase 2B
+5898,RALA,RAS like proto-oncogene A,0,RAS like proto-oncogene A
+667,DST,dystonin,0,dystonin
+9456,HOMER1,homer scaffold protein 1,0,homer scaffold protein 1
+5899,RALB,RAS like proto-oncogene B,0,RAS like proto-oncogene B
+208,AKT2,AKT serine/threonine kinase 2,0,AKT serine/threonine kinase 2
+5869,RAB5B,"RAB5B, member RAS oncogene family",0,"RAB5B, member RAS oncogene family"
+7297,TYK2,tyrosine kinase 2,0,tyrosine kinase 2
+5055,SERPINB2,serpin family B member 2,0,serpin family B member 2
+3654,IRAK1,interleukin 1 receptor associated kinase 1,0,interleukin 1 receptor associated kinase 1
+841,CASP8,caspase 8,0,caspase 8
+391,RHOG,ras homolog family member G,0,ras homolog family member G
+9638,FEZ1,fasciculation and elongation protein zeta 1,0,fasciculation and elongation protein zeta 1
+7533,YWHAH,tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta,0,tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta
+6845,VAMP7,vesicle associated membrane protein 7,0,vesicle associated membrane protein 7
+64689,GORASP1,golgi reassembly stacking protein 1,0,golgi reassembly stacking protein 1
+2332,FMR1,FMRP translational regulator 1,0,FMRP translational regulator 1
+5867,RAB4A,"RAB4A, member RAS oncogene family",0,"RAB4A, member RAS oncogene family"
+6844,VAMP2,vesicle associated membrane protein 2,0,vesicle associated membrane protein 2
+26146,TRAF3IP1,TRAF3 interacting protein 1,1,TRAF3 interacting protein 1
+23345,SYNE1,spectrin repeat containing nuclear envelope protein 1,0,spectrin repeat containing nuclear envelope protein 1
+2060,EPS15,epidermal growth factor receptor pathway substrate 15,0,epidermal growth factor receptor pathway substrate 15
+5048,PAFAH1B1,platelet activating factor acetylhydrolase 1b regulatory subunit 1,0,platelet activating factor acetylhydrolase 1b regulatory subunit 1
+7531,YWHAE,tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon,0,tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon
+5861,RAB1A,"RAB1A, member RAS oncogene family",0,"RAB1A, member RAS oncogene family"
+11141,IL1RAPL1,interleukin 1 receptor accessory protein like 1,0,interleukin 1 receptor accessory protein like 1
+10928,RALBP1,ralA binding protein 1,0,ralA binding protein 1
+308,ANXA5,annexin A5,0,annexin A5
+11336,EXOC3,exocyst complex component 3,0,exocyst complex component 3
+23265,EXOC7,exocyst complex component 7,0,exocyst complex component 7
+4005,LMO2,LIM domain only 2,0,LIM domain only 2
+4144,MAT2A,methionine adenosyltransferase 2A,0,methionine adenosyltransferase 2A
+6281,S100A10,S100 calcium binding protein A10,0,S100 calcium binding protein A10
+5213,PFKM,"phosphofructokinase, muscle",0,"phosphofructokinase, muscle"
+64326,COP1,COP1 E3 ubiquitin ligase,0,COP1 E3 ubiquitin ligase
+2976,GTF3C2,general transcription factor IIIC subunit 2,0,general transcription factor IIIC subunit 2
+1191,CLU,clusterin,0,clusterin
+3329,HSPD1,heat shock protein family D (Hsp60) member 1,0,heat shock protein family D (Hsp60) member 1
+5591,PRKDC,"protein kinase, DNA-activated, catalytic subunit",0,"protein kinase, DNA-activated, catalytic subunit"
+5576,PRKAR2A,protein kinase cAMP-dependent type II regulatory subunit alpha,0,protein kinase cAMP-dependent type II regulatory subunit alpha
+1813,DRD2,dopamine receptor D2,0,dopamine receptor D2
+1315,COPB1,COPI coat complex subunit beta 1,0,COPI coat complex subunit beta 1
+1410,CRYAB,crystallin alpha B,0,crystallin alpha B
+402,ARL2,ADP ribosylation factor like GTPase 2,0,ADP ribosylation factor like GTPase 2
+660,BMX,BMX non-receptor tyrosine kinase,0,BMX non-receptor tyrosine kinase
+4000,LMNA,lamin A/C,0,lamin A/C
+3383,ICAM1,intercellular adhesion molecule 1,0,intercellular adhesion molecule 1
+4849,CNOT3,CCR4-NOT transcription complex subunit 3,0,CCR4-NOT transcription complex subunit 3
+8836,GGH,gamma-glutamyl hydrolase,0,gamma-glutamyl hydrolase
+1969,EPHA2,EPH receptor A2,0,EPH receptor A2
+3958,LGALS3,galectin 3,0,galectin 3
+8775,NAPA,NSF attachment protein alpha,0,NSF attachment protein alpha
+4055,LTBR,lymphotoxin beta receptor,0,lymphotoxin beta receptor
+5108,PCM1,pericentriolar material 1,0,pericentriolar material 1
+567,B2M,beta-2-microglobulin,0,beta-2-microglobulin
+7461,CLIP2,CAP-Gly domain containing linker protein 2,0,CAP-Gly domain containing linker protein 2
+57120,GOPC,golgi associated PDZ and coiled-coil motif containing,0,golgi associated PDZ and coiled-coil motif containing
+4893,NRAS,"NRAS proto-oncogene, GTPase",0,"NRAS proto-oncogene, GTPase"
+403,ARL3,ADP ribosylation factor like GTPase 3,0,ADP ribosylation factor like GTPase 3
+10121,ACTR1A,actin related protein 1A,0,actin related protein 1A
+10540,DCTN2,dynactin subunit 2,0,dynactin subunit 2
+6274,S100A3,S100 calcium binding protein A3,0,S100 calcium binding protein A3
+5865,RAB3B,"RAB3B, member RAS oncogene family",0,"RAB3B, member RAS oncogene family"
+4841,NONO,non-POU domain containing octamer binding,0,non-POU domain containing octamer binding
+8649,LAMTOR3,"late endosomal/lysosomal adaptor, MAPK and MTOR activator 3",0,"late endosomal/lysosomal adaptor, MAPK and MTOR activator 3"
+7486,WRN,WRN RecQ like helicase,0,WRN RecQ like helicase
+10959,TMED2,transmembrane p24 trafficking protein 2,0,transmembrane p24 trafficking protein 2
+10972,TMED10,transmembrane p24 trafficking protein 10,0,transmembrane p24 trafficking protein 10
+9939,RBM8A,RNA binding motif protein 8A,0,RNA binding motif protein 8A
+8022,LHX3,LIM homeobox 3,0,LIM homeobox 3
+26160,IFT172,intraflagellar transport 172,1,intraflagellar transport 172
+5577,PRKAR2B,protein kinase cAMP-dependent type II regulatory subunit beta,0,protein kinase cAMP-dependent type II regulatory subunit beta
+9341,VAMP3,vesicle associated membrane protein 3,0,vesicle associated membrane protein 3
+11337,GABARAP,GABA type A receptor-associated protein,0,GABA type A receptor-associated protein
+6103,RPGR,retinitis pigmentosa GTPase regulator,0,retinitis pigmentosa GTPase regulator
+3092,HIP1,huntingtin interacting protein 1,0,huntingtin interacting protein 1
+5870,RAB6A,"RAB6A, member RAS oncogene family",0,"RAB6A, member RAS oncogene family"
+23085,ERC1,ELKS/RAB6-interacting/CAST family member 1,0,ELKS/RAB6-interacting/CAST family member 1
+55207,ARL8B,ADP ribosylation factor like GTPase 8B,0,ADP ribosylation factor like GTPase 8B
+10142,AKAP9,A-kinase anchoring protein 9,0,A-kinase anchoring protein 9
+5116,PCNT,pericentrin,0,pericentrin
+7411,VBP1,VHL binding protein 1,0,VHL binding protein 1
+5859,QARS1,glutaminyl-tRNA synthetase 1,0,glutaminyl-tRNA synthetase 1
+7168,TPM1,tropomyosin 1,0,tropomyosin 1
+6249,CLIP1,CAP-Gly domain containing linker protein 1,0,CAP-Gly domain containing linker protein 1
+5147,PDE6D,phosphodiesterase 6D,1,phosphodiesterase 6D
+6709,SPTAN1,"spectrin alpha, non-erythrocytic 1",0,"spectrin alpha, non-erythrocytic 1"
+7337,UBE3A,ubiquitin protein ligase E3A,0,ubiquitin protein ligase E3A
+8448,DOC2A,double C2 domain alpha,0,double C2 domain alpha
+6890,TAP1,"transporter 1, ATP binding cassette subfamily B member",0,"transporter 1, ATP binding cassette subfamily B member"
+3281,HSBP1,heat shock factor binding protein 1,0,heat shock factor binding protein 1
+5770,PTPN1,protein tyrosine phosphatase non-receptor type 1,0,protein tyrosine phosphatase non-receptor type 1
+57511,COG6,component of oligomeric golgi complex 6,0,component of oligomeric golgi complex 6
+5862,RAB2A,"RAB2A, member RAS oncogene family",0,"RAB2A, member RAS oncogene family"
+7086,TKT,transketolase,0,transketolase
+11004,KIF2C,kinesin family member 2C,0,kinesin family member 2C
+64946,CENPH,centromere protein H,0,centromere protein H
+7280,TUBB2A,tubulin beta 2A class IIa,0,tubulin beta 2A class IIa
+6421,SFPQ,splicing factor proline and glutamine rich,0,splicing factor proline and glutamine rich
+950,SCARB2,scavenger receptor class B member 2,0,scavenger receptor class B member 2
+2253,FGF8,fibroblast growth factor 8,0,fibroblast growth factor 8
+5339,PLEC,plectin,0,plectin
+51377,UCHL5,ubiquitin C-terminal hydrolase L5,0,ubiquitin C-terminal hydrolase L5
+5333,PLCD1,phospholipase C delta 1,0,phospholipase C delta 1
+8991,SELENBP1,selenium binding protein 1,0,selenium binding protein 1
+7316,UBC,ubiquitin C,0,ubiquitin C
+1540,CYLD,CYLD lysine 63 deubiquitinase,0,CYLD lysine 63 deubiquitinase
+9491,PSMF1,proteasome inhibitor subunit 1,0,proteasome inhibitor subunit 1
+10987,COPS5,COP9 signalosome subunit 5,0,COP9 signalosome subunit 5
+8481,OFD1,OFD1 centriole and centriolar satellite protein,0,OFD1 centriole and centriolar satellite protein
+22919,MAPRE1,microtubule associated protein RP/EB family member 1,1,microtubule associated protein RP/EB family member 1
+582,BBS1,Bardet-Biedl syndrome 1,0,Bardet-Biedl syndrome 1
+3163,HMOX2,heme oxygenase 2,0,heme oxygenase 2
+4651,MYO10,myosin X,0,myosin X
+5203,PFDN4,prefoldin subunit 4,0,prefoldin subunit 4
+5685,PSMA4,proteasome 20S subunit alpha 4,0,proteasome 20S subunit alpha 4
+5694,PSMB6,proteasome 20S subunit beta 6,0,proteasome 20S subunit beta 6
+6399,TRAPPC2,trafficking protein particle complex subunit 2,0,trafficking protein particle complex subunit 2
+8340,H2BC13,H2B clustered histone 13,0,H2B clustered histone 13
+9406,ZRANB2,zinc finger RANBP2-type containing 2,0,zinc finger RANBP2-type containing 2
+10970,CKAP4,cytoskeleton associated protein 4,0,cytoskeleton associated protein 4
+11047,ADRM1,ADRM1 26S proteasome ubiquitin receptor,0,ADRM1 26S proteasome ubiquitin receptor
+29844,TFPT,TCF3 fusion partner,0,TCF3 fusion partner
+51199,NIN,ninein,0,ninein
+51366,UBR5,ubiquitin protein ligase E3 component n-recognin 5,0,ubiquitin protein ligase E3 component n-recognin 5
+55505,NOP10,NOP10 ribonucleoprotein,0,NOP10 ribonucleoprotein
+55662,HIF1AN,hypoxia inducible factor 1 subunit alpha inhibitor,0,hypoxia inducible factor 1 subunit alpha inhibitor
+78990,OTUB2,"OTU deubiquitinase, ubiquitin aldehyde binding 2",0,"OTU deubiquitinase, ubiquitin aldehyde binding 2"
+132320,SCLT1,sodium channel and clathrin linker 1,1,sodium channel and clathrin linker 1
+5692,PSMB4,proteasome 20S subunit beta 4,0,proteasome 20S subunit beta 4
+5690,PSMB2,proteasome 20S subunit beta 2,0,proteasome 20S subunit beta 2
+5686,PSMA5,proteasome 20S subunit alpha 5,0,proteasome 20S subunit alpha 5
+10521,DDX17,DEAD-box helicase 17,0,DEAD-box helicase 17
+9793,CKAP5,cytoskeleton associated protein 5,0,cytoskeleton associated protein 5
+3306,HSPA2,heat shock protein family A (Hsp70) member 2,0,heat shock protein family A (Hsp70) member 2
+5211,PFKL,"phosphofructokinase, liver type",0,"phosphofructokinase, liver type"
+131578,LRRC15,leucine rich repeat containing 15,0,leucine rich repeat containing 15
+498,ATP5F1A,ATP synthase F1 subunit alpha,0,ATP synthase F1 subunit alpha
+10460,TACC3,transforming acidic coiled-coil containing protein 3,0,transforming acidic coiled-coil containing protein 3
+7266,DNAJC7,DnaJ heat shock protein family (Hsp40) member C7,0,DnaJ heat shock protein family (Hsp40) member C7
+10483,SEC23B,"SEC23 homolog B, COPII coat complex component",0,"SEC23 homolog B, COPII coat complex component"
+23710,GABARAPL1,GABA type A receptor associated protein like 1,0,GABA type A receptor associated protein like 1
+217,ALDH2,aldehyde dehydrogenase 2 family member,0,aldehyde dehydrogenase 2 family member
+8799,PEX11B,peroxisomal biogenesis factor 11 beta,0,peroxisomal biogenesis factor 11 beta
+55140,ELP3,elongator acetyltransferase complex subunit 3,0,elongator acetyltransferase complex subunit 3
+54496,PRMT7,protein arginine methyltransferase 7,0,protein arginine methyltransferase 7
+10294,DNAJA2,DnaJ heat shock protein family (Hsp40) member A2,0,DnaJ heat shock protein family (Hsp40) member A2
+10383,TUBB4B,tubulin beta 4B class IVb,0,tubulin beta 4B class IVb
+22897,CEP164,centrosomal protein 164,1,centrosomal protein 164
+1062,CENPE,centromere protein E,0,centromere protein E
+3009,H1-5,"H1.5 linker histone, cluster member",0,"H1.5 linker histone, cluster member"
+8881,CDC16,cell division cycle 16,0,cell division cycle 16
+27095,TRAPPC3,trafficking protein particle complex subunit 3,0,trafficking protein particle complex subunit 3
+51693,TRAPPC2L,trafficking protein particle complex subunit 2L,0,trafficking protein particle complex subunit 2L
+5935,RBM3,RNA binding motif protein 3,0,RNA binding motif protein 3
+22994,CEP131,centrosomal protein 131,0,centrosomal protein 131
+10982,MAPRE2,microtubule associated protein RP/EB family member 2,1,microtubule associated protein RP/EB family member 2
+6389,SDHA,succinate dehydrogenase complex flavoprotein subunit A,0,succinate dehydrogenase complex flavoprotein subunit A
+5695,PSMB7,proteasome 20S subunit beta 7,0,proteasome 20S subunit beta 7
+5268,SERPINB5,serpin family B member 5,0,serpin family B member 5
+11072,DUSP14,dual specificity phosphatase 14,0,dual specificity phosphatase 14
+37,ACADVL,acyl-CoA dehydrogenase very long chain,0,acyl-CoA dehydrogenase very long chain
+10728,PTGES3,prostaglandin E synthase 3,0,prostaglandin E synthase 3
+3920,LAMP2,lysosomal associated membrane protein 2,0,lysosomal associated membrane protein 2
+11116,CEP43,centrosomal protein 43,0,centrosomal protein 43
+9857,CEP350,centrosomal protein 350,0,centrosomal protein 350
+662,BNIP1,BCL2 interacting protein 1,0,BCL2 interacting protein 1
+57003,CCDC47,coiled-coil domain containing 47,0,coiled-coil domain containing 47
+57534,MIB1,MIB E3 ubiquitin protein ligase 1,0,MIB E3 ubiquitin protein ligase 1
+1039,CDR2,cerebellar degeneration related protein 2,0,cerebellar degeneration related protein 2
+7083,TK1,thymidine kinase 1,0,thymidine kinase 1
+23354,HAUS5,HAUS augmin like complex subunit 5,0,HAUS augmin like complex subunit 5
+29781,NCAPH2,non-SMC condensin II complex subunit H2,0,non-SMC condensin II complex subunit H2
+9919,SEC16A,"SEC16 homolog A, endoplasmic reticulum export factor",0,"SEC16 homolog A, endoplasmic reticulum export factor"
+9859,CEP170,centrosomal protein 170,0,centrosomal protein 170
+23358,USP24,ubiquitin specific peptidase 24,0,ubiquitin specific peptidase 24
+10634,GAS2L1,growth arrest specific 2 like 1,0,growth arrest specific 2 like 1
+11187,PKP3,plakophilin 3,0,plakophilin 3
+1362,CPD,carboxypeptidase D,0,carboxypeptidase D
+9455,HOMER2,homer scaffold protein 2,0,homer scaffold protein 2
+2590,GALNT2,polypeptide N-acetylgalactosaminyltransferase 2,0,polypeptide N-acetylgalactosaminyltransferase 2
+83874,TBC1D10A,TBC1 domain family member 10A,0,TBC1 domain family member 10A
+10079,ATP9A,ATPase phospholipid transporting 9A (putative),0,ATPase phospholipid transporting 9A (putative)
+23532,PRAME,PRAME nuclear receptor transcriptional regulator,0,PRAME nuclear receptor transcriptional regulator
+9463,PICK1,protein interacting with PRKCA 1,0,protein interacting with PRKCA 1
+84790,TUBA1C,tubulin alpha 1c,0,tubulin alpha 1c
+51552,RAB14,"RAB14, member RAS oncogene family",0,"RAB14, member RAS oncogene family"
+7109,TRAPPC10,trafficking protein particle complex subunit 10,0,trafficking protein particle complex subunit 10
+10767,HBS1L,HBS1 like translational GTPase,0,HBS1 like translational GTPase
+55755,CDK5RAP2,CDK5 regulatory subunit associated protein 2,0,CDK5 regulatory subunit associated protein 2
+23065,EMC1,ER membrane protein complex subunit 1,0,ER membrane protein complex subunit 1
+3796,KIF2A,kinesin family member 2A,0,kinesin family member 2A
+7289,TULP3,TUB like protein 3,0,TUB like protein 3
+6888,TALDO1,transaldolase 1,0,transaldolase 1
+55004,LAMTOR1,"late endosomal/lysosomal adaptor, MAPK and MTOR activator 1",0,"late endosomal/lysosomal adaptor, MAPK and MTOR activator 1"
+7840,ALMS1,ALMS1 centrosome and basal body associated protein,0,ALMS1 centrosome and basal body associated protein
+3916,LAMP1,lysosomal associated membrane protein 1,0,lysosomal associated membrane protein 1
+22852,ANKRD26,ankyrin repeat domain 26,1,ankyrin repeat domain 26
+57488,ESYT2,extended synaptotagmin 2,0,extended synaptotagmin 2
+23478,SEC11A,"SEC11 homolog A, signal peptidase complex subunit",0,"SEC11 homolog A, signal peptidase complex subunit"
+9694,EMC2,ER membrane protein complex subunit 2,0,ER membrane protein complex subunit 2
+10615,SPAG5,sperm associated antigen 5,0,sperm associated antigen 5
+2787,GNG5,G protein subunit gamma 5,0,G protein subunit gamma 5
+583,BBS2,Bardet-Biedl syndrome 2,0,Bardet-Biedl syndrome 2
+203068,TUBB,tubulin beta class I,0,tubulin beta class I
+9208,LRRFIP1,LRR binding FLII interacting protein 1,0,LRR binding FLII interacting protein 1
+5567,PRKACB,protein kinase cAMP-activated catalytic subunit beta,0,protein kinase cAMP-activated catalytic subunit beta
+25959,KANK2,KN motif and ankyrin repeat domains 2,0,KN motif and ankyrin repeat domains 2
+83987,CCDC8,coiled-coil domain containing 8,0,coiled-coil domain containing 8
+55898,UNC45A,unc-45 myosin chaperone A,0,unc-45 myosin chaperone A
+7204,TRIO,trio Rho guanine nucleotide exchange factor,0,trio Rho guanine nucleotide exchange factor
+9230,RAB11B,"RAB11B, member RAS oncogene family",0,"RAB11B, member RAS oncogene family"
+55142,HAUS2,HAUS augmin like complex subunit 2,0,HAUS augmin like complex subunit 2
+121441,NEDD1,NEDD1 gamma-tubulin ring complex targeting factor,0,NEDD1 gamma-tubulin ring complex targeting factor
+64432,MRPS25,mitochondrial ribosomal protein S25,0,mitochondrial ribosomal protein S25
+7381,UQCRB,ubiquinol-cytochrome c reductase binding protein,0,ubiquinol-cytochrome c reductase binding protein
+112869,SGF29,SAGA complex associated factor 29,0,SAGA complex associated factor 29
+55212,BBS7,Bardet-Biedl syndrome 7,0,Bardet-Biedl syndrome 7
+4836,NMT1,N-myristoyltransferase 1,0,N-myristoyltransferase 1
+10328,EMC8,ER membrane protein complex subunit 8,0,ER membrane protein complex subunit 8
+93380,MMGT1,membrane magnesium transporter 1,0,membrane magnesium transporter 1
+25886,POC1A,POC1 centriolar protein A,0,POC1 centriolar protein A
+11258,DCTN3,dynactin subunit 3,0,dynactin subunit 3
+10120,ACTR1B,actin related protein 1B,0,actin related protein 1B
+57539,WDR35,WD repeat domain 35,1,WD repeat domain 35
+9742,IFT140,intraflagellar transport 140,1,intraflagellar transport 140
+57728,WDR19,WD repeat domain 19,1,WD repeat domain 19
+55764,IFT122,intraflagellar transport 122,1,intraflagellar transport 122
+112752,IFT43,intraflagellar transport 43,1,intraflagellar transport 43
+91734,IDI2,isopentenyl-diphosphate delta isomerase 2,0,isopentenyl-diphosphate delta isomerase 2
+81565,NDEL1,nudE neurodevelopment protein 1 like 1,0,nudE neurodevelopment protein 1 like 1
+54820,NDE1,nudE neurodevelopment protein 1,0,nudE neurodevelopment protein 1
+11158,RABL2B,"RAB, member of RAS oncogene family like 2B",1,"RAB, member of RAS oncogene family like 2B"
+11159,RABL2A,"RAB, member of RAS oncogene family like 2A",1,"RAB, member of RAS oncogene family like 2A"
+3101,HK3,hexokinase 3,0,hexokinase 3
+92521,SPECC1,sperm antigen with calponin homology and coiled-coil domains 1,0,sperm antigen with calponin homology and coiled-coil domains 1
+10464,PIBF1,progesterone immunomodulatory binding factor 1,0,progesterone immunomodulatory binding factor 1
+23413,NCS1,neuronal calcium sensor 1,1,neuronal calcium sensor 1
+144100,PLEKHA7,pleckstrin homology domain containing A7,0,pleckstrin homology domain containing A7
+79989,TTC26,tetratricopeptide repeat domain 26,1,tetratricopeptide repeat domain 26
+84376,HOOK3,hook microtubule tethering protein 3,0,hook microtubule tethering protein 3
+10848,PPP1R13L,protein phosphatase 1 regulatory subunit 13 like,0,protein phosphatase 1 regulatory subunit 13 like
+9659,PDE4DIP,phosphodiesterase 4D interacting protein,0,phosphodiesterase 4D interacting protein
+84626,KRBA1,KRAB-A domain containing 1,0,KRAB-A domain containing 1
+1809,DPYSL3,dihydropyrimidinase like 3,0,dihydropyrimidinase like 3
+26747,NUFIP1,nuclear FMR1 interacting protein 1,0,nuclear FMR1 interacting protein 1
+55172,DNAAF2,dynein axonemal assembly factor 2,0,dynein axonemal assembly factor 2
+51560,RAB6B,"RAB6B, member RAS oncogene family",0,"RAB6B, member RAS oncogene family"
+83696,TRAPPC9,trafficking protein particle complex subunit 9,0,trafficking protein particle complex subunit 9
+84231,TRAF7,TNF receptor associated factor 7,0,TNF receptor associated factor 7
+81833,SPACA1,sperm acrosome associated 1,0,sperm acrosome associated 1
+90417,KNSTRN,kinetochore localized astrin (SPAG5) binding protein,0,kinetochore localized astrin (SPAG5) binding protein
+55361,PI4K2A,phosphatidylinositol 4-kinase type 2 alpha,0,phosphatidylinositol 4-kinase type 2 alpha
+2267,FGL1,fibrinogen like 1,0,fibrinogen like 1
+10981,RAB32,"RAB32, member RAS oncogene family",0,"RAB32, member RAS oncogene family"
+79187,FSD1,fibronectin type III and SPRY domain containing 1,0,fibronectin type III and SPRY domain containing 1
+56912,IFT46,intraflagellar transport 46,1,intraflagellar transport 46
+79722,ANKRD55,ankyrin repeat domain 55,0,ankyrin repeat domain 55
+51098,IFT52,intraflagellar transport 52,1,intraflagellar transport 52
+51399,TRAPPC4,trafficking protein particle complex subunit 4,0,trafficking protein particle complex subunit 4
+55262,TRAPPC14,trafficking protein particle complex subunit 14,0,trafficking protein particle complex subunit 14
+58485,TRAPPC1,trafficking protein particle complex subunit 1,0,trafficking protein particle complex subunit 1
+9454,HOMER3,homer scaffold protein 3,0,homer scaffold protein 3
+79065,ATG9A,autophagy related 9A,0,autophagy related 9A
+25821,MTO1,mitochondrial tRNA translation optimization 1,0,mitochondrial tRNA translation optimization 1
+79029,SPATA5L1,spermatogenesis associated 5 like 1,0,spermatogenesis associated 5 like 1
+54785,BORCS6,BLOC-1 related complex subunit 6,0,BLOC-1 related complex subunit 6
+55638,SYBU,syntabulin,0,syntabulin
+27076,LYPD3,LY6/PLAUR domain containing 3,0,LY6/PLAUR domain containing 3
+116138,KLHDC3,kelch domain containing 3,0,kelch domain containing 3
+23270,TSPYL4,TSPY like 4,0,TSPY like 4
+23059,CLUAP1,clusterin associated protein 1,1,clusterin associated protein 1
+55081,IFT57,intraflagellar transport 57,1,intraflagellar transport 57
+28981,IFT81,intraflagellar transport 81,1,intraflagellar transport 81
+8100,IFT88,intraflagellar transport 88,1,intraflagellar transport 88
+55075,UACA,uveal autoantigen with coiled-coil domains and ankyrin repeats,0,uveal autoantigen with coiled-coil domains and ankyrin repeats
+80173,IFT74,intraflagellar transport 74,1,intraflagellar transport 74
+64792,IFT22,intraflagellar transport 22,1,intraflagellar transport 22
+92104,TTC30A,tetratricopeptide repeat domain 30A,0,tetratricopeptide repeat domain 30A
+11018,TMED1,transmembrane p24 trafficking protein 1,0,transmembrane p24 trafficking protein 1
+55835,CENPJ,centromere protein J,0,centromere protein J
+159989,DEUP1,deuterosome assembly protein 1,0,deuterosome assembly protein 1
+90410,IFT20,intraflagellar transport 20,1,intraflagellar transport 20
+26267,FBXO10,F-box protein 10,0,F-box protein 10
+57560,IFT80,intraflagellar transport 80,1,intraflagellar transport 80
+167691,LCA5,lebercilin LCA5,0,lebercilin LCA5
+11020,IFT27,intraflagellar transport 27,1,intraflagellar transport 27
+55857,KIZ,kizuna centrosomal protein,1,kizuna centrosomal protein
+23332,CLASP1,cytoplasmic linker associated protein 1,1,cytoplasmic linker associated protein 1
+51134,CEP83,centrosomal protein 83,1,centrosomal protein 83
+55847,CISD1,CDGSH iron sulfur domain 1,0,CDGSH iron sulfur domain 1
+54836,BSPRY,B-box and SPRY domain containing,0,B-box and SPRY domain containing
+80212,CCDC92,coiled-coil domain containing 92,1,coiled-coil domain containing 92
+122553,TRAPPC6B,trafficking protein particle complex subunit 6B,0,trafficking protein particle complex subunit 6B
+29058,TMEM230,transmembrane protein 230,0,transmembrane protein 230
+284467,TAFA3,TAFA chemokine like family member 3,0,TAFA chemokine like family member 3
+79875,THSD4,thrombospondin type 1 domain containing 4,0,thrombospondin type 1 domain containing 4
+57415,C3orf14,chromosome 3 open reading frame 14,1,chromosome 3 open reading frame 14
+84902,CEP89,centrosomal protein 89,1,centrosomal protein 89
+54732,TMED9,transmembrane p24 trafficking protein 9,0,transmembrane p24 trafficking protein 9
+79809,TTC21B,tetratricopeptide repeat domain 21B,1,tetratricopeptide repeat domain 21B
+51668,HSPB11,heat shock protein family B (small) member 11,1,heat shock protein family B (small) member 11
+22924,MAPRE3,microtubule associated protein RP/EB family member 3,0,microtubule associated protein RP/EB family member 3
+53918,PELO,pelota mRNA surveillance and ribosome rescue factor,0,pelota mRNA surveillance and ribosome rescue factor
+126961,H3C14,H3 clustered histone 14,0,H3 clustered histone 14
+8294,H4C9,H4 clustered histone 9,0,H4 clustered histone 9
+102724334,LOC102724334,histone H2B type F-S-like,0,histone H2B type F-S-like
+8331,H2AC14,H2A clustered histone 14,0,H2A clustered histone 14
+826,CAPNS1,calpain small subunit 1,0,calpain small subunit 1
+56623,INPP5E,inositol polyphosphate-5-phosphatase E,1,inositol polyphosphate-5-phosphatase E
+51684,SUFU,SUFU negative regulator of hedgehog signaling,0,SUFU negative regulator of hedgehog signaling
+85302,FBF1,Fas binding factor 1,1,Fas binding factor 1
+84984,CEP19,centrosomal protein 19,0,centrosomal protein 19
+28957,MRPS28,mitochondrial ribosomal protein S28,0,mitochondrial ribosomal protein S28
+9361,LONP1,"lon peptidase 1, mitochondrial",0,"lon peptidase 1, mitochondrial"
+58472,SQOR,sulfide quinone oxidoreductase,0,sulfide quinone oxidoreductase
+81876,RAB1B,"RAB1B, member RAS oncogene family",0,"RAB1B, member RAS oncogene family"
+10890,RAB10,"RAB10, member RAS oncogene family",0,"RAB10, member RAS oncogene family"
+146057,TTBK2,tau tubulin kinase 2,1,tau tubulin kinase 2
+2950,GSTP1,glutathione S-transferase pi 1,0,glutathione S-transferase pi 1
+5217,PFN2,profilin 2,0,profilin 2
+2638,GC,GC vitamin D binding protein,0,GC vitamin D binding protein
+10487,CAP1,cyclase associated actin cytoskeleton regulatory protein 1,0,cyclase associated actin cytoskeleton regulatory protein 1
+3293,HSD17B3,hydroxysteroid 17-beta dehydrogenase 3,0,hydroxysteroid 17-beta dehydrogenase 3
+205860,TRIML2,tripartite motif family like 2,0,tripartite motif family like 2
+147841,SPC24,SPC24 component of NDC80 kinetochore complex,0,SPC24 component of NDC80 kinetochore complex
+3925,STMN1,stathmin 1,0,stathmin 1
+3998,LMAN1,"lectin, mannose binding 1",0,"lectin, mannose binding 1"
+26227,PHGDH,phosphoglycerate dehydrogenase,0,phosphoglycerate dehydrogenase
+284119,CAVIN1,caveolae associated protein 1,0,caveolae associated protein 1
+10536,P3H3,prolyl 3-hydroxylase 3,0,prolyl 3-hydroxylase 3
+391123,VSIG8,V-set and immunoglobulin domain containing 8,0,V-set and immunoglobulin domain containing 8
+150737,TTC30B,tetratricopeptide repeat domain 30B,1,tetratricopeptide repeat domain 30B
+5881,RAC3,Rac family small GTPase 3,0,Rac family small GTPase 3
+1775,DNASE1L2,deoxyribonuclease 1 like 2,0,deoxyribonuclease 1 like 2
+149041,RC3H1,ring finger and CCCH-type domains 1,0,ring finger and CCCH-type domains 1
+3875,KRT18,keratin 18,0,keratin 18
+27237,ARHGEF16,Rho guanine nucleotide exchange factor 16,0,Rho guanine nucleotide exchange factor 16
+5318,PKP2,plakophilin 2,0,plakophilin 2
+117178,SSX2IP,SSX family member 2 interacting protein,0,SSX family member 2 interacting protein
+89796,NAV1,neuron navigator 1,0,neuron navigator 1
+25827,FBXL2,F-box and leucine rich repeat protein 2,0,F-box and leucine rich repeat protein 2
+123228,SENP8,"SUMO peptidase family member, NEDD8 specific",0,"SUMO peptidase family member, NEDD8 specific"
+84961,FBXL20,F-box and leucine rich repeat protein 20,0,F-box and leucine rich repeat protein 20
+3688,ITGB1,integrin subunit beta 1,0,integrin subunit beta 1
+23426,GRIP1,glutamate receptor interacting protein 1,0,glutamate receptor interacting protein 1
+25939,SAMHD1,SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1,0,SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1
+3945,LDHB,lactate dehydrogenase B,0,lactate dehydrogenase B
+5315,PKM,pyruvate kinase M1/2,0,pyruvate kinase M1/2
+5204,PFDN5,prefoldin subunit 5,0,prefoldin subunit 5
+10131,TRAP1,TNF receptor associated protein 1,0,TNF receptor associated protein 1
+55036,CCDC40,coiled-coil domain containing 40,0,coiled-coil domain containing 40
+1603,DAD1,defender against cell death 1,0,defender against cell death 1
+147409,DSG4,desmoglein 4,0,desmoglein 4
+4759,NEU2,neuraminidase 2,0,neuraminidase 2
+9761,MLEC,malectin,0,malectin
+254773,LYG2,lysozyme g2,0,lysozyme g2
+341208,HEPHL1,hephaestin like 1,0,hephaestin like 1
+284427,SLC25A41,solute carrier family 25 member 41,0,solute carrier family 25 member 41
+57175,CORO1B,coronin 1B,0,coronin 1B
+80817,CEP44,centrosomal protein 44,0,centrosomal protein 44
+374882,TMEM205,transmembrane protein 205,0,transmembrane protein 205
+83658,DYNLRB1,dynein light chain roadblock-type 1,0,dynein light chain roadblock-type 1
+6520,SLC3A2,solute carrier family 3 member 2,0,solute carrier family 3 member 2
+57826,RAP2C,"RAP2C, member of RAS oncogene family",0,"RAP2C, member of RAS oncogene family"
+114822,RHPN1,rhophilin Rho GTPase binding protein 1,0,rhophilin Rho GTPase binding protein 1
+3398,ID2,inhibitor of DNA binding 2,0,inhibitor of DNA binding 2
+55454,CSGALNACT2,chondroitin sulfate N-acetylgalactosaminyltransferase 2,0,chondroitin sulfate N-acetylgalactosaminyltransferase 2
+131583,FAM43A,family with sequence similarity 43 member A,0,family with sequence similarity 43 member A
+1678,TIMM8A,translocase of inner mitochondrial membrane 8A,0,translocase of inner mitochondrial membrane 8A
+26355,FAM162A,family with sequence similarity 162 member A,0,family with sequence similarity 162 member A
+26092,TOR1AIP1,torsin 1A interacting protein 1,0,torsin 1A interacting protein 1
+6631,SNRPC,small nuclear ribonucleoprotein polypeptide C,0,small nuclear ribonucleoprotein polypeptide C
+23196,FAM120A,family with sequence similarity 120A,0,family with sequence similarity 120A
+6233,RPS27A,ribosomal protein S27a,0,ribosomal protein S27a
+51699,VPS29,VPS29 retromer complex component,0,VPS29 retromer complex component
+84126,ATRIP,ATR interacting protein,0,ATR interacting protein
+51097,SCCPDH,saccharopine dehydrogenase (putative),0,saccharopine dehydrogenase (putative)
+10165,SLC25A13,solute carrier family 25 member 13,0,solute carrier family 25 member 13
+8833,GMPS,guanine monophosphate synthase,0,guanine monophosphate synthase
+388468,POTEC,POTE ankyrin domain family member C,0,POTE ankyrin domain family member C
+5906,RAP1A,"RAP1A, member of RAS oncogene family",0,"RAP1A, member of RAS oncogene family"
+84262,PSMG3,proteasome assembly chaperone 3,0,proteasome assembly chaperone 3
+6282,S100A11,S100 calcium binding protein A11,0,S100 calcium binding protein A11
+26065,LSM14A,LSM14A mRNA processing body assembly factor,0,LSM14A mRNA processing body assembly factor
+84844,PHF5A,PHD finger protein 5A,0,PHD finger protein 5A
+11031,RAB31,"RAB31, member RAS oncogene family",0,"RAB31, member RAS oncogene family"
+23295,MGRN1,mahogunin ring finger 1,0,mahogunin ring finger 1
+4830,NME1,NME/NM23 nucleoside diphosphate kinase 1,0,NME/NM23 nucleoside diphosphate kinase 1
+84548,TMEM185A,transmembrane protein 185A,0,transmembrane protein 185A
+203259,FAM219A,family with sequence similarity 219 member A,0,family with sequence similarity 219 member A
+9141,PDCD5,programmed cell death 5,0,programmed cell death 5
+9903,KLHL21,kelch like family member 21,0,kelch like family member 21
+200081,TXLNA,taxilin alpha,0,taxilin alpha
+10978,CLP1,cleavage factor polyribonucleotide kinase subunit 1,0,cleavage factor polyribonucleotide kinase subunit 1
+28987,NOB1,NIN1 (RPN12) binding protein 1 homolog,0,NIN1 (RPN12) binding protein 1 homolog
+51538,ZCCHC17,zinc finger CCHC-type containing 17,0,zinc finger CCHC-type containing 17
+84522,JAGN1,jagunal homolog 1,0,jagunal homolog 1
+644186,SYCE3,synaptonemal complex central element protein 3,0,synaptonemal complex central element protein 3
+5214,PFKP,"phosphofructokinase, platelet",0,"phosphofructokinase, platelet"
+55002,TMCO3,transmembrane and coiled-coil domains 3,0,transmembrane and coiled-coil domains 3
+51248,PDZD11,PDZ domain containing 11,0,PDZ domain containing 11
+27430,MAT2B,methionine adenosyltransferase 2B,0,methionine adenosyltransferase 2B
+55291,PPP6R3,protein phosphatase 6 regulatory subunit 3,0,protein phosphatase 6 regulatory subunit 3
+84823,LMNB2,lamin B2,0,lamin B2
+9601,PDIA4,protein disulfide isomerase family A member 4,0,protein disulfide isomerase family A member 4
+9344,TAOK2,TAO kinase 2,0,TAO kinase 2
+153241,CEP120,centrosomal protein 120,0,centrosomal protein 120
+493856,CISD2,CDGSH iron sulfur domain 2,0,CDGSH iron sulfur domain 2
+51303,FKBP11,FKBP prolyl isomerase 11,0,FKBP prolyl isomerase 11
+50999,TMED5,transmembrane p24 trafficking protein 5,0,transmembrane p24 trafficking protein 5
+222068,TMED4,transmembrane p24 trafficking protein 4,0,transmembrane p24 trafficking protein 4
+55110,MAGOHB,"mago homolog B, exon junction complex subunit",0,"mago homolog B, exon junction complex subunit"
+9260,PDLIM7,PDZ and LIM domain 7,0,PDZ and LIM domain 7
+261734,NPHP4,nephrocystin 4,0,nephrocystin 4
+127829,ARL8A,ADP ribosylation factor like GTPase 8A,0,ADP ribosylation factor like GTPase 8A
+9364,RAB28,"RAB28, member RAS oncogene family",0,"RAB28, member RAS oncogene family"
+10960,LMAN2,"lectin, mannose binding 2",0,"lectin, mannose binding 2"
+115948,ODAD3,outer dynein arm docking complex subunit 3,0,outer dynein arm docking complex subunit 3
+2629,GBA,glucosylceramidase beta,0,glucosylceramidase beta
+283899,INO80E,INO80 complex subunit E,0,INO80 complex subunit E
+8338,H2AC20,H2A clustered histone 20,0,H2A clustered histone 20
+7335,UBE2V1,ubiquitin conjugating enzyme E2 V1,0,ubiquitin conjugating enzyme E2 V1
+7336,UBE2V2,ubiquitin conjugating enzyme E2 V2,0,ubiquitin conjugating enzyme E2 V2
+79874,RABEP2,"rabaptin, RAB GTPase binding effector protein 2",0,"rabaptin, RAB GTPase binding effector protein 2"
+201161,CENPV,centromere protein V,0,centromere protein V
+7165,TPD52L2,TPD52 like 2,0,TPD52 like 2
+23499,MACF1,microtubule actin crosslinking factor 1,0,microtubule actin crosslinking factor 1
+23281,MTUS2,microtubule associated scaffold protein 2,0,microtubule associated scaffold protein 2
+56243,KIAA1217,KIAA1217,0,KIAA1217
+10024,TROAP,trophinin associated protein,0,trophinin associated protein
+126353,MISP,mitotic spindle positioning,0,mitotic spindle positioning
+146909,KIF18B,kinesin family member 18B,0,kinesin family member 18B
+11230,PRAF2,PRA1 domain family member 2,0,PRA1 domain family member 2
+84502,JPH4,junctophilin 4,0,junctophilin 4
+126003,TRAPPC5,trafficking protein particle complex subunit 5,0,trafficking protein particle complex subunit 5
+54433,GAR1,GAR1 ribonucleoprotein,0,GAR1 ribonucleoprotein
+521,ATP5ME,ATP synthase membrane subunit e,0,ATP synthase membrane subunit e
+27031,NPHP3,nephrocystin 3,0,nephrocystin 3
+200879,LIPH,lipase H,0,lipase H
+1990,CELA1,chymotrypsin like elastase 1,0,chymotrypsin like elastase 1
+51084,CRYL1,crystallin lambda 1,0,crystallin lambda 1
+55118,CRTAC1,cartilage acidic protein 1,0,cartilage acidic protein 1
+6390,SDHB,succinate dehydrogenase complex iron sulfur subunit B,0,succinate dehydrogenase complex iron sulfur subunit B
+22931,RAB18,"RAB18, member RAS oncogene family",0,"RAB18, member RAS oncogene family"
+55012,PPP2R3C,protein phosphatase 2 regulatory subunit B''gamma,0,protein phosphatase 2 regulatory subunit B''gamma
+10424,PGRMC2,progesterone receptor membrane component 2,0,progesterone receptor membrane component 2
+55325,UFSP2,UFM1 specific peptidase 2,0,UFM1 specific peptidase 2
+347862,GATD1,glutamine amidotransferase class 1 domain containing 1,0,glutamine amidotransferase class 1 domain containing 1
+116442,RAB39B,"RAB39B, member RAS oncogene family",0,"RAB39B, member RAS oncogene family"
+54849,DEF8,differentially expressed in FDCP 8 homolog,0,differentially expressed in FDCP 8 homolog
+10447,FAM3C,FAM3 metabolism regulating signaling molecule C,0,FAM3 metabolism regulating signaling molecule C
+23344,ESYT1,extended synaptotagmin 1,0,extended synaptotagmin 1
+60559,SPCS3,signal peptidase complex subunit 3,0,signal peptidase complex subunit 3
+11001,SLC27A2,solute carrier family 27 member 2,0,solute carrier family 27 member 2
+221301,CALHM4,calcium homeostasis modulator family member 4,0,calcium homeostasis modulator family member 4
+51373,MRPS17,mitochondrial ribosomal protein S17,0,mitochondrial ribosomal protein S17
+29796,UQCR10,"ubiquinol-cytochrome c reductase, complex III subunit X",0,"ubiquinol-cytochrome c reductase, complex III subunit X"
+80313,LRRC27,leucine rich repeat containing 27,0,leucine rich repeat containing 27
+7288,TULP2,TUB like protein 2,0,TUB like protein 2
+119710,IFTAP,intraflagellar transport associated protein,0,intraflagellar transport associated protein
+158158,RASEF,RAS and EF-hand domain containing,0,RAS and EF-hand domain containing
+54913,RPP25,ribonuclease P and MRP subunit p25,0,ribonuclease P and MRP subunit p25
+91057,CCDC34,coiled-coil domain containing 34,0,coiled-coil domain containing 34
+9397,NMT2,N-myristoyltransferase 2,0,N-myristoyltransferase 2
+57406,ABHD6,"abhydrolase domain containing 6, acylglycerol lipase",0,"abhydrolase domain containing 6, acylglycerol lipase"
+127733,UBXN10,UBX domain protein 10,0,UBX domain protein 10
+153364,MBLAC2,metallo-beta-lactamase domain containing 2,0,metallo-beta-lactamase domain containing 2
+23682,RAB38,"RAB38, member RAS oncogene family",0,"RAB38, member RAS oncogene family"
+80303,EFHD1,EF-hand domain family member D1,0,EF-hand domain family member D1
+200894,ARL13B,ADP ribosylation factor like GTPase 13B,0,ADP ribosylation factor like GTPase 13B
+84766,CRACR2A,calcium release activated channel regulator 2A,0,calcium release activated channel regulator 2A
+54795,TRPM4,transient receptor potential cation channel subfamily M member 4,0,transient receptor potential cation channel subfamily M member 4
+27036,SIGLEC7,sialic acid binding Ig like lectin 7,0,sialic acid binding Ig like lectin 7
+54622,ARL15,ADP ribosylation factor like GTPase 15,0,ADP ribosylation factor like GTPase 15
+54848,ARHGEF38,Rho guanine nucleotide exchange factor 38,0,Rho guanine nucleotide exchange factor 38
+100287399,POTEB2,POTE ankyrin domain family member B2,0,POTE ankyrin domain family member B2
+55170,PRMT6,protein arginine methyltransferase 6,0,protein arginine methyltransferase 6
+1152,CKB,creatine kinase B,0,creatine kinase B
+6699,SPRR1B,small proline rich protein 1B,0,small proline rich protein 1B
+3856,KRT8,keratin 8,0,keratin 8
+26046,LTN1,listerin E3 ubiquitin protein ligase 1,0,listerin E3 ubiquitin protein ligase 1
+55379,LRRC59,leucine rich repeat containing 59,0,leucine rich repeat containing 59
+51065,RPS27L,ribosomal protein S27 like,0,ribosomal protein S27 like
+7057,THBS1,thrombospondin 1,0,thrombospondin 1
+4522,MTHFD1,"methylenetetrahydrofolate dehydrogenase, cyclohydrolase and formyltetrahydrofolate synthetase 1",0,"methylenetetrahydrofolate dehydrogenase, cyclohydrolase and formyltetrahydrofolate synthetase 1"
+10807,ENTR1,endosome associated trafficking regulator 1,0,endosome associated trafficking regulator 1
+23341,DNAJC16,DnaJ heat shock protein family (Hsp40) member C16,0,DnaJ heat shock protein family (Hsp40) member C16
+9688,NUP93,nucleoporin 93,0,nucleoporin 93
+2318,FLNC,filamin C,0,filamin C
+6789,STK4,serine/threonine kinase 4,0,serine/threonine kinase 4
+11100,HNRNPUL1,heterogeneous nuclear ribonucleoprotein U like 1,0,heterogeneous nuclear ribonucleoprotein U like 1
+871,SERPINH1,serpin family H member 1,0,serpin family H member 1
+26993,AKAP8L,A-kinase anchoring protein 8 like,0,A-kinase anchoring protein 8 like
+284106,CISD3,CDGSH iron sulfur domain 3,0,CDGSH iron sulfur domain 3
+800,CALD1,caldesmon 1,0,caldesmon 1
+79188,TMEM43,transmembrane protein 43,0,transmembrane protein 43
+266655,BRD3OS,BRD3 opposite strand,0,BRD3 opposite strand
+5412,UBL3,ubiquitin like 3,0,ubiquitin like 3
+339231,ARL16,ADP ribosylation factor like GTPase 16,0,ADP ribosylation factor like GTPase 16
+10999,SLC27A4,solute carrier family 27 member 4,0,solute carrier family 27 member 4
+9556,ATP5MJ,ATP synthase membrane subunit j,0,ATP synthase membrane subunit j
+2068,ERCC2,"ERCC excision repair 2, TFIIH core complex helicase subunit",0,"ERCC excision repair 2, TFIIH core complex helicase subunit"
+6814,STXBP3,syntaxin binding protein 3,0,syntaxin binding protein 3
+11000,SLC27A3,solute carrier family 27 member 3,0,solute carrier family 27 member 3
+2027,ENO3,enolase 3,0,enolase 3
+10058,ABCB6,ATP binding cassette subfamily B member 6 (Langereis blood group),0,ATP binding cassette subfamily B member 6 (Langereis blood group)
+2686,GGT7,gamma-glutamyltransferase 7,0,gamma-glutamyltransferase 7
+6897,TARS1,threonyl-tRNA synthetase 1,0,threonyl-tRNA synthetase 1
+4324,MMP15,matrix metallopeptidase 15,0,matrix metallopeptidase 15
+55066,PDPR,pyruvate dehydrogenase phosphatase regulatory subunit,0,pyruvate dehydrogenase phosphatase regulatory subunit
+10939,AFG3L2,AFG3 like matrix AAA peptidase subunit 2,0,AFG3 like matrix AAA peptidase subunit 2
+80222,TARS2,"threonyl-tRNA synthetase 2, mitochondrial",0,"threonyl-tRNA synthetase 2, mitochondrial"
+2673,GFPT1,glutamine--fructose-6-phosphate transaminase 1,0,glutamine--fructose-6-phosphate transaminase 1
+2621,GAS6,growth arrest specific 6,0,growth arrest specific 6
+10916,MAGED2,MAGE family member D2,0,MAGE family member D2
+9900,SV2A,synaptic vesicle glycoprotein 2A,0,synaptic vesicle glycoprotein 2A
+60493,FASTKD5,FAST kinase domains 5,0,FAST kinase domains 5
+81887,LAS1L,LAS1 like ribosome biogenesis factor,0,LAS1 like ribosome biogenesis factor
+3030,HADHA,hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit alpha,0,hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit alpha
+112802,KRT71,keratin 71,0,keratin 71
+51441,YTHDF2,YTH N6-methyladenosine RNA binding protein 2,0,YTH N6-methyladenosine RNA binding protein 2
+1938,EEF2,eukaryotic translation elongation factor 2,0,eukaryotic translation elongation factor 2
+85236,H2BC12,H2B clustered histone 12,0,H2B clustered histone 12
+6902,TBCA,tubulin folding cofactor A,0,tubulin folding cofactor A
+6624,FSCN1,fascin actin-bundling protein 1,0,fascin actin-bundling protein 1
+51691,LSM8,"LSM8 homolog, U6 small nuclear RNA associated",0,"LSM8 homolog, U6 small nuclear RNA associated"
+5908,RAP1B,"RAP1B, member of RAS oncogene family",0,"RAP1B, member of RAS oncogene family"
+257364,SNX33,sorting nexin 33,0,sorting nexin 33
+26521,TIMM8B,translocase of inner mitochondrial membrane 8 homolog B,0,translocase of inner mitochondrial membrane 8 homolog B
+84327,ZBED3,zinc finger BED-type containing 3,0,zinc finger BED-type containing 3
+9403,SELENOF,selenoprotein F,0,selenoprotein F
+79828,METTL8,"methyltransferase 8, methylcytidine",0,"methyltransferase 8, methylcytidine"
+84661,DPY30,dpy-30 histone methyltransferase complex regulatory subunit,0,dpy-30 histone methyltransferase complex regulatory subunit
+387763,C11orf96,chromosome 11 open reading frame 96,0,chromosome 11 open reading frame 96
+3234,HOXD8,homeobox D8,0,homeobox D8
+79760,GEMIN7,gem nuclear organelle associated protein 7,0,gem nuclear organelle associated protein 7
+59338,PLEKHA1,pleckstrin homology domain containing A1,0,pleckstrin homology domain containing A1
+11014,KDELR2,KDEL endoplasmic reticulum protein retention receptor 2,0,KDEL endoplasmic reticulum protein retention receptor 2
+26292,MYCBP,MYC binding protein,0,MYC binding protein
+51535,PPHLN1,periphilin 1,0,periphilin 1
+548596,CKMT1A,"creatine kinase, mitochondrial 1A",0,"creatine kinase, mitochondrial 1A"
+220988,HNRNPA3,heterogeneous nuclear ribonucleoprotein A3,0,heterogeneous nuclear ribonucleoprotein A3
+22898,DENND3,DENN domain containing 3,0,DENN domain containing 3
+29105,CFAP20,cilia and flagella associated protein 20,0,cilia and flagella associated protein 20
+29102,DROSHA,drosha ribonuclease III,0,drosha ribonuclease III
+64975,MRPL41,mitochondrial ribosomal protein L41,0,mitochondrial ribosomal protein L41
+84967,LSM10,"LSM10, U7 small nuclear RNA associated",0,"LSM10, U7 small nuclear RNA associated"
+51646,YPEL5,yippee like 5,0,yippee like 5
+552900,BOLA2,bolA family member 2,0,bolA family member 2
+6723,SRM,spermidine synthase,0,spermidine synthase
+8683,SRSF9,serine and arginine rich splicing factor 9,0,serine and arginine rich splicing factor 9
+22800,RRAS2,RAS related 2,0,RAS related 2
+9898,UBAP2L,ubiquitin associated protein 2 like,0,ubiquitin associated protein 2 like
+6143,RPL19,ribosomal protein L19,0,ribosomal protein L19
+1155,TBCB,tubulin folding cofactor B,0,tubulin folding cofactor B
+84271,POLDIP3,DNA polymerase delta interacting protein 3,0,DNA polymerase delta interacting protein 3
+5912,RAP2B,"RAP2B, member of RAS oncogene family",0,"RAP2B, member of RAS oncogene family"
+5447,POR,cytochrome p450 oxidoreductase,0,cytochrome p450 oxidoreductase
+1727,CYB5R3,cytochrome b5 reductase 3,0,cytochrome b5 reductase 3
+1528,CYB5A,cytochrome b5 type A,0,cytochrome b5 type A
+91942,NDUFAF2,NADH:ubiquinone oxidoreductase complex assembly factor 2,0,NADH:ubiquinone oxidoreductase complex assembly factor 2
+83871,RAB34,"RAB34, member RAS oncogene family",0,"RAB34, member RAS oncogene family"
+64083,GOLPH3,golgi phosphoprotein 3,0,golgi phosphoprotein 3
+51125,GOLGA7,golgin A7,0,golgin A7
+51124,IER3IP1,immediate early response 3 interacting protein 1,0,immediate early response 3 interacting protein 1
+1312,COMT,catechol-O-methyltransferase,0,catechol-O-methyltransferase
+51715,RAB23,"RAB23, member RAS oncogene family",0,"RAB23, member RAS oncogene family"
+401409,RAB19,"RAB19, member RAS oncogene family",0,"RAB19, member RAS oncogene family"
+1469,CST1,cystatin SN,0,cystatin SN
+51449,PCYOX1,prenylcysteine oxidase 1,0,prenylcysteine oxidase 1
+100529257,SYNJ2BP-COX16,SYNJ2BP-COX16 readthrough,0,SYNJ2BP-COX16 readthrough
+4257,MGST1,microsomal glutathione S-transferase 1,0,microsomal glutathione S-transferase 1
+23011,RAB21,"RAB21, member RAS oncogene family",0,"RAB21, member RAS oncogene family"
+80777,CYB5B,cytochrome b5 type B,0,cytochrome b5 type B
+339122,RAB43,"RAB43, member RAS oncogene family",0,"RAB43, member RAS oncogene family"
+7841,MOGS,mannosyl-oligosaccharide glucosidase,0,mannosyl-oligosaccharide glucosidase
+283820,NOMO2,NODAL modulator 2,0,NODAL modulator 2
+53917,RAB24,"RAB24, member RAS oncogene family",0,"RAB24, member RAS oncogene family"
+11231,SEC63,"SEC63 homolog, protein translocation regulator",0,"SEC63 homolog, protein translocation regulator"
+51651,PTRH2,peptidyl-tRNA hydrolase 2,0,peptidyl-tRNA hydrolase 2
+8560,DEGS1,"delta 4-desaturase, sphingolipid 1",0,"delta 4-desaturase, sphingolipid 1"
+5873,RAB27A,"RAB27A, member RAS oncogene family",0,"RAB27A, member RAS oncogene family"
+949,SCARB1,scavenger receptor class B member 1,0,scavenger receptor class B member 1
+9367,RAB9A,"RAB9A, member RAS oncogene family",0,"RAB9A, member RAS oncogene family"
+2181,ACSL3,acyl-CoA synthetase long chain family member 3,0,acyl-CoA synthetase long chain family member 3
+23530,NNT,nicotinamide nucleotide transhydrogenase,0,nicotinamide nucleotide transhydrogenase
+153339,TMEM167A,transmembrane protein 167A,0,transmembrane protein 167A
+389203,SMIM20,small integral membrane protein 20,0,small integral membrane protein 20
+8934,RAB29,"RAB29, member RAS oncogene family",0,"RAB29, member RAS oncogene family"
+10269,ZMPSTE24,zinc metallopeptidase STE24,0,zinc metallopeptidase STE24
+135114,HINT3,histidine triad nucleotide binding protein 3,0,histidine triad nucleotide binding protein 3
+10476,ATP5PD,ATP synthase peripheral stalk subunit d,0,ATP synthase peripheral stalk subunit d
+9377,COX5A,cytochrome c oxidase subunit 5A,0,cytochrome c oxidase subunit 5A
+9545,RAB3D,"RAB3D, member RAS oncogene family",0,"RAB3D, member RAS oncogene family"
+113178,SCAMP4,secretory carrier membrane protein 4,0,secretory carrier membrane protein 4
+55151,TMEM38B,transmembrane protein 38B,0,transmembrane protein 38B
+51026,GOLT1B,golgi transport 1B,0,golgi transport 1B
+3954,LETM1,leucine zipper and EF-hand containing transmembrane protein 1,0,leucine zipper and EF-hand containing transmembrane protein 1
+9526,MPDU1,mannose-P-dolichol utilization defect 1,0,mannose-P-dolichol utilization defect 1
+5872,RAB13,"RAB13, member RAS oncogene family",0,"RAB13, member RAS oncogene family"
+5355,PLP2,proteolipid protein 2,0,proteolipid protein 2
+9804,TOMM20,translocase of outer mitochondrial membrane 20,0,translocase of outer mitochondrial membrane 20
+51251,NT5C3A,"5'-nucleotidase, cytosolic IIIA",0,"5'-nucleotidase, cytosolic IIIA"
+154807,VKORC1L1,vitamin K epoxide reductase complex subunit 1 like 1,0,vitamin K epoxide reductase complex subunit 1 like 1
+221079,ARL5B,ADP ribosylation factor like GTPase 5B,0,ADP ribosylation factor like GTPase 5B
+3892,KRT86,keratin 86,0,keratin 86
+3888,KRT82,keratin 82,0,keratin 82
+337972,KRTAP19-5,keratin associated protein 19-5,0,keratin associated protein 19-5
+337959,KRTAP13-2,keratin associated protein 13-2,0,keratin associated protein 13-2
+100653049,LOC100653049,"keratin, type I cuticular Ha4",0,"keratin, type I cuticular Ha4"
+390792,KRT39,keratin 39,0,keratin 39
+3883,KRT33A,keratin 33A,0,keratin 33A
+8687,KRT38,keratin 38,0,keratin 38
+3881,KRT31,keratin 31,0,keratin 31
+987,LRBA,LPS responsive beige-like anchor protein,0,LPS responsive beige-like anchor protein
+51056,LAP3,leucine aminopeptidase 3,0,leucine aminopeptidase 3
+3886,KRT35,keratin 35,0,keratin 35
+140258,KRTAP13-1,keratin associated protein 13-1,0,keratin associated protein 13-1
+3891,KRT85,keratin 85,0,keratin 85
+81872,KRTAP2-1,keratin associated protein 2-1,0,keratin associated protein 2-1
+3890,KRT84,keratin 84,0,keratin 84
+9022,CLIC3,chloride intracellular channel 3,0,chloride intracellular channel 3
+337976,KRTAP20-2,keratin associated protein 20-2,0,keratin associated protein 20-2
+7296,TXNRD1,thioredoxin reductase 1,0,thioredoxin reductase 1
+83896,KRTAP3-1,keratin associated protein 3-1,0,keratin associated protein 3-1
+643803,KRTAP24-1,keratin associated protein 24-1,0,keratin associated protein 24-1
+3884,KRT33B,keratin 33B,0,keratin 33B
+9084,VCY,variable charge Y-linked,0,variable charge Y-linked
+337880,KRTAP11-1,keratin associated protein 11-1,0,keratin associated protein 11-1
+102800317,TPTEP2-CSNK1E,TPTEP2-CSNK1E readthrough,0,TPTEP2-CSNK1E readthrough
+6432,SRSF7,serine and arginine rich splicing factor 7,0,serine and arginine rich splicing factor 7
+81870,KRTAP9-9,keratin associated protein 9-9,0,keratin associated protein 9-9
+140576,S100A16,S100 calcium binding protein A16,0,S100 calcium binding protein A16
+26520,TIMM9,translocase of inner mitochondrial membrane 9,0,translocase of inner mitochondrial membrane 9
+83897,KRTAP3-2,keratin associated protein 3-2,0,keratin associated protein 3-2
+9555,MACROH2A1,macroH2A.1 histone,0,macroH2A.1 histone
+55862,ECHDC1,ethylmalonyl-CoA decarboxylase 1,0,ethylmalonyl-CoA decarboxylase 1
+3005,H1-0,H1.0 linker histone,0,H1.0 linker histone
+6100,RP9,RP9 pre-mRNA splicing factor,0,RP9 pre-mRNA splicing factor
+100996750,LOC100996750,keratin-associated protein 4-7,0,keratin-associated protein 4-7
+125115,KRT40,keratin 40,0,keratin 40
+10687,PNMA2,PNMA family member 2,0,PNMA family member 2
+51569,UFM1,ubiquitin fold modifier 1,0,ubiquitin fold modifier 1
+3074,HEXB,hexosaminidase subunit beta,0,hexosaminidase subunit beta
+283450,HECTD4,HECT domain E3 ubiquitin protein ligase 4,0,HECT domain E3 ubiquitin protein ligase 4
+2173,FABP7,fatty acid binding protein 7,0,fatty acid binding protein 7
+382,ARF6,ADP ribosylation factor 6,0,ADP ribosylation factor 6
